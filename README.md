@@ -1,4 +1,4 @@
-# speed control defs
+# string print speed and color control defs
 - this code use librarys colorama
 - for install
 `pip install colorama`
